@@ -1,0 +1,28 @@
+{
+  "name": "Rplatzom",
+  "version": "0.1.0",
+  "description": "Traductor de idioma curso platzi",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist ",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delgado161/platzom.git"
+  },
+  "keywords": [
+    "platzi",
+    "roberto",
+    "taller",
+    "afeitado"
+  ],
+  "author": "Roberto Delgado",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
