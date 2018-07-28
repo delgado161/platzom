@@ -1,5 +1,5 @@
 {
-  "name": "Rplatzom",
+  "name": "platzom",
   "version": "0.1.0",
   "description": "Traductor de idioma curso platzi",
   "main": "dist/src/platzom.js",
